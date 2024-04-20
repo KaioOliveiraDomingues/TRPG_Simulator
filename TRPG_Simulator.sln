@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRPG_Simulator", "TRPG_Simulator.csproj", "{87A6DE2E-46CC-4B71-889E-DAFC138A275C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRPG_Simulator.ConsoleApp", "TRPG_Simulator.ConsoleApp.csproj", "{87A6DE2E-46CC-4B71-889E-DAFC138A275C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
